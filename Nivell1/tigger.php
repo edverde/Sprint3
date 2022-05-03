@@ -7,7 +7,7 @@ class Tigger_singleton {
     //constructor
     private function __construct(){
 
-        echo "Acabo de neixer... i el <br>";
+        echo "Acabo de neixer...<br>";
     }
     //mètodes
     static function getInstance(){
